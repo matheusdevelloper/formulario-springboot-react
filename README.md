@@ -42,7 +42,7 @@ formulario/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/matheusdevelloper/formulario-springboot-react.git
 cd seu-repositorio
 
 2. Rodar o Back-end (Spring Boot)
